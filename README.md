@@ -18,7 +18,7 @@ An Android Injector aimed to inject through Virtual Space without root permissio
 5. Click "Inject," and the app should launch.
 
 ## Credits
-NewBlackbox by ALEX5402: [GitHub](https://github.com/dibya0018) <br />
+NewBlackbox by RedZonerror: [GitHub](https://github.com/dibya0018) <br />
 
 ## Contributions
 Contributions are welcome to help improve this project! If you’re interested in adding features or enhancing functionality, feel free to submit a pull request or open an issue to discuss your ideas.

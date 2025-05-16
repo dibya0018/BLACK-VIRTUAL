@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_all_apps"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Local Apps"/>
+    <item
+        android:id="@+id/nav_cloned_apps"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Cloned Apps"/>
+</menu> 

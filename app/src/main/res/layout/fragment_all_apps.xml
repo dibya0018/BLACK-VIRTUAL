@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#FAF7ED">
+
+    <EditText
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Search Something..."
+        android:background="@android:drawable/edit_text"
+        android:padding="12dp"
+        android:layout_margin="12dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:textColor="#222"
+        android:textColorHint="#888"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/apps_grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:clipToPadding="false"
+        android:scrollbars="vertical"/>
+</LinearLayout> 

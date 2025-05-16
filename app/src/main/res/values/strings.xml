@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Virtual Inject</string>
+    <string name="about_view_source_code"><![CDATA[<br>Join our %1$s channel<br/><br>Copyright © %2$s<br/>]]></string>
+    <string name="About">About</string>
+</resources>

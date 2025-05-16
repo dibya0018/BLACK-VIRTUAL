@@ -36,4 +36,4 @@ For any questions, collaboration requests, or updates, feel free to reach out vi
 This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
 
 ## Preview
-<img src="https://drive.google.com/file/d/1mpoyiNmfopgMakW4lBZikWnshCqxDffv/view?usp=sharing" width="350">
+<img src="https://drive.google.com/file/d/1mpoyiNmfopgMakW4lBZikWnshCqxDffv/view" width="350">
